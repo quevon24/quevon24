@@ -1,4 +1,14 @@
-## Hi there 👋
+# Frontend/Backend developer
+
+[![Linkedin: Kevin Ramirez](https://img.shields.io/badge/Linkedin-Kevin%20Ramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-ramirez-zavalza-3a2ba229/)](https://www.linkedin.com/in/kevin-ramirez-zavalza-3a2ba229/)
+![](https://komarev.com/ghpvc/?username=quevon24&color=blue&style=plastic&label=Views)
+![GitHub followers](https://img.shields.io/github/followers/quevon24)
+
+## Hi there 👋 I'm Kevin Ramirez
+
+- 🔭 I’m currently working on [Free Law Project](https://free.law/)
+- 🌱 I’m currently learning **Next.js**
+- 💬 Ask me about **Python, Django, DRF, Docker, Ruby**
 
 <!--
 **quevon24/quevon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
