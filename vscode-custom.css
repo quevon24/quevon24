@@ -1,0 +1,20 @@
+/* Custom CSS for VS Code */
+/* Place this file in this location: /home/user/.vscode/vscode-custom.css */
+
+/* Staged Changes - Green background */
+div[aria-label="Staged Changes"] {
+  background-color: rgba(0, 255, 0, 0.1) !important;
+  border-top: 1px solid rgba(0, 200, 0, 0.3) !important;
+}
+
+/* Unstaged Changes - Yellow background */
+div[aria-label="Changes"] {
+  background-color: rgba(255, 255, 0, 0.1) !important;
+  border-top: 1px solid rgba(200, 200, 0, 0.3) !important;
+}
+
+/* Untracked Files - Blue background */
+div[aria-label="Untracked Changes"] {
+  background-color: rgba(0, 150, 255, 0.1) !important;
+  border-top: 1px solid rgba(0, 100, 255, 0.3) !important;
+}
